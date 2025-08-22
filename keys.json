@@ -6,5 +6,9 @@
   {
     "key": "XYZ789",
     "expires": "2025-09-01"
+  },
+  {
+    "key": "SSJV-SFCX",
+    "expires": "9999-01-01"
   }
 ]
