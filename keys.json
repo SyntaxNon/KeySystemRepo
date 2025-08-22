@@ -1,5 +1,4 @@
-{
-    "MACS-ADFG-SDCV": "ATX",
-    "QWER-ZXCV-1234": "TEST",
-    "ZXCV-BNMA-9999": "EUN_C"
-}
+[
+  { "key": "ABC123", "expires": "2025-08-25" },
+  { "key": "XYZ789", "expires": "2025-09-01" }
+]
