@@ -1,14 +1,7 @@
-[
-  {
-    "key": "ABC123",
-    "expires": "2025-08-25"
-  },
-  {
-    "key": "XYZ789",
-    "expires": "2025-09-01"
-  },
-  {
-    "key": "XUFG-FSSF-VSFG-SVGG",
-    "expires": "9999-01-01"
-  }
-]
+{
+    "valid_keys": [
+        "ABC123",
+        "DEF456",
+        "GHI789"
+    ]
+}
