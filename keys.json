@@ -1,7 +1,5 @@
 {
-    "valid_keys": [
-        "ABC123",
-        "DEF456",
-        "GHI789"
-    ]
+  "valid_key": "ABC123",
+  "expiry_date": "2025-12-31",
+  "hardware_id": "Non"
 }
