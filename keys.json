@@ -1,5 +1,4 @@
 {
-  "valid_key": "ABC123",
-  "expiry_date": "2025-12-31",
-  "hardware_id": "Non"
+  "valid_key": "TESTKEY123",
+  "expiry_date": "2099-12-31"
 }
